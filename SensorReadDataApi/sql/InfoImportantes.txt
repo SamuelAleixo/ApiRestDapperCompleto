@@ -1,0 +1,8 @@
+﻿http://localhost:61190/api/sensor   - necessario só trocar o numero da localhost pra sua maquina
+
+
+na appsettings.json necessario trocar a string de conexão do banco também, 
+e tudo inserido por lá já vai bater na api
+
+da pra inserir mais informações na api via sql server - por edi 200 linhas ou insert mesmo ou via
+postman fazendo uma requisição post e com a url aqui pra cima e verificando no get
